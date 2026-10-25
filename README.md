@@ -1,3 +1,3 @@
 # my-green-streak
 started
-day 2
+day 3
